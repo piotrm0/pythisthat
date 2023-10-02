@@ -1,2 +1,4 @@
 this.egg-info
 dist
+*.egg-info
+*.pyc
